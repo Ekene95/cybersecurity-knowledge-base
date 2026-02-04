@@ -172,7 +172,7 @@ ss -uan
 ftp://<username>:<password>@<host>
 
 # Example
-ftp://FC2e125c:AN9vm_TQ5ut+JB@ftp-pro.houston.softwaregrp.com
+ftp://john_doe:SecureP@ssw0rd123@ftp.example.com
 ```
 
 ### FTP Command Line Client

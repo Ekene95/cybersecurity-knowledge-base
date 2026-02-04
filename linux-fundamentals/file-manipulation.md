@@ -9,10 +9,10 @@ Advanced text processing, filtering, and log analysis techniques using Linux com
 Search logs for IP addresses and file extensions:
 ```bash
 # Search for IP and .sh files
-cat audit.log | grep 172.16.50.51 | grep "\.sh"
+cat audit.log | grep 192.0.2.100 | grep "\.sh"
 
 # Search for IP and .tar.gz files
-cat audit.log | grep 172.16.50.51 | grep -e "\.tar\.gz"
+cat audit.log | grep 192.0.2.100 | grep -e "\.tar\.gz"
 ```
 
 ### Extracting and Counting with AWK
@@ -23,7 +23,7 @@ Extract failed login attempts and count by IP:
 cat auth.log | grep Failed | awk '{print $(NF-3)}' | sort | uniq -c | grep 49
 
 # Count unique IPs with 49 failed attempts
-cat auth.log.2 | grep Failed | grep 14.141.8.32 | awk '{print $(NF-5)}' | sort | uniq -c | sort -n | wc -l
+cat auth.log.2 | grep Failed | grep 192.0.2.200 | awk '{print $(NF-5)}' | sort | uniq -c | sort -n | wc -l
 
 # Alternative: NF-6 or NF-3 depending on line format
 cat auth.log | grep Failed | awk '{print $(NF-6)}' | sort | uniq -c | sort -n
@@ -53,7 +53,7 @@ cat <filename> | sed -n '/<word>/p' | wc -l
 
 # Example: Extract invalid user attempts, then search for IP
 cat auth.log | grep -i "failed password for invalid user" > invaliduser.txt
-cat invaliduser.txt | sed -n '/51.68.189.177/p' | wc -l
+cat invaliduser.txt | sed -n '/192.0.2.50/p' | wc -l
 ```
 
 ## Advanced Grep Techniques

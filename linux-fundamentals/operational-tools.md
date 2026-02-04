@@ -43,7 +43,7 @@ REM Zip the output folder
 REM Location: %OvDataDir%\tmp\oa_data
 ```
 
-**Source:** Microsoft SharePoint - Data Collection OBM documentation
+**Source:** Enterprise monitoring system documentation
 
 ---
 

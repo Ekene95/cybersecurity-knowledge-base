@@ -52,7 +52,7 @@ Download numbered files from a web server:
 ```bash
 # Download files 1 through 100
 for i in $(seq 1 100); do 
-    wget 3.72.47.184/$i
+    wget 203.0.113.10/$i
 done
 ```
 
@@ -60,7 +60,7 @@ done
 
 ```bash
 #!/bin/bash
-BASE_URL="3.72.47.184"
+BASE_URL="203.0.113.10"
 START=1
 END=100
 
