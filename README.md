@@ -19,6 +19,17 @@ Welcome! This repository is designed to help aspiring cybersecurity professional
 
 ---
 
+### ✅ [Learn Networking](learn-networking/) - **COMPLETE**
+**Practical networking for security professionals!** Comprehensive pentesting-focused guide:
+
+- 🟢 **Beginner:** TCP/IP fundamentals, network services, Wireshark analysis
+- 🟡 **Intermediate:** NMAP scanning, text manipulation for security
+- 🔴 **Advanced:** Online/offline brute forcing, steganography
+
+**9 comprehensive guides** with strong ethical guidelines and hands-on practice.
+
+---
+
 ### ✅ [Learn Python](learn-python/) - **COMPLETE**
 **Next step in your journey!** Comprehensive Python guide for cybersecurity:
 
