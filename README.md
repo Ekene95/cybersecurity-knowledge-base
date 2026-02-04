@@ -8,7 +8,7 @@ Welcome! This repository is designed to help aspiring cybersecurity professional
 
 ## 📚 Available Content
 
-### ✅ [Linux Fundamentals](linux-fundamentals/) - **COMPLETE**
+### ✅ [Learn Linux](learn-linux/) - **COMPLETE**
 **Start here!** Comprehensive Linux guide organized beginner → advanced:
 
 - 🟢 **Beginner:** Learning resources, basic commands, services
@@ -19,7 +19,7 @@ Welcome! This repository is designed to help aspiring cybersecurity professional
 
 ---
 
-## 🚧 Coming Soon
+## Coming Soon
 
 The following topics are planned for this knowledge base:
 
@@ -65,8 +65,6 @@ The following topics are planned for this knowledge base:
 - Container security
 
 ### 📝 Additional Topics
-- Cyberium concepts
-- TCM security
 - Useful documentation
 - Quick reference notes
 
@@ -109,17 +107,17 @@ The following topics are planned for this knowledge base:
 ## 📖 Learning Path Suggestion
 
 ```
-1. Linux Fundamentals (🟢 Start Here!)
+1. Learn Linux (Start Here!)
    ↓
-2. Network Security Basics (Coming Soon)
+2. Network Security Basics
    ↓
-3. Python Fundamentals (Coming Soon)
+3. Learn Python
    ↓
-4. Web Application Security (Coming Soon)
+4. Web Application Security
    ↓
-5. Penetration Testing Methodology (Coming Soon)
+5. Penetration Testing Methodology 
 ```
-
+##### PS: If you do not find a learning track, it is coming soon...
 ---
 
 ## 🤝 Contributing
@@ -150,7 +148,7 @@ Watch for updates on:
 
 This knowledge base is built from real-world experience in security testing, system administration, and continuous learning. The goal is to make cybersecurity education accessible, practical, and beginner-friendly.
 
-**Remember:** Every expert was once a beginner. Keep learning, stay curious! 🚀
+**Remember:** Every expert was once a beginner. Keep learning, stay curious! 
 
 ---
 
@@ -161,5 +159,3 @@ This project is open source and available for educational purposes. Feel free to
 ---
 
 **Last Updated:** February 2026  
-**Status:** Active Development  
-**Next Addition:** Network Security Fundamentals
