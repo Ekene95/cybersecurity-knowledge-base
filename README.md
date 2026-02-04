@@ -19,6 +19,17 @@ Welcome! This repository is designed to help aspiring cybersecurity professional
 
 ---
 
+### ✅ [Learn Python](learn-python/) - **COMPLETE**
+**Next step in your journey!** Comprehensive Python guide for cybersecurity:
+
+- 🟢 **Beginner:** Strings, variables, operators, dictionaries
+- 🟡 **Intermediate:** Functions, iteration, functional programming  
+- 🔴 **Advanced:** APIs, authentication, practical exercises
+
+**9 comprehensive guides** with security-focused examples and hands-on practice.
+
+---
+
 ## Coming Soon
 
 The following topics are planned for this knowledge base:
@@ -41,11 +52,6 @@ The following topics are planned for this knowledge base:
 - Port scanning and enumeration
 - Network penetration testing
 - Wireless security
-
-### 🐍 Python Fundamentals
-- Python basics for security
-- Scripting for automation
-- Security tool development
 
 ### 🎯 Penetration Testing
 - PT methodology and frameworks
